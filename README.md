@@ -1,4 +1,4 @@
-# Welcome to the OWASP Top 10 2007! 
+### Welcome to the OWASP Top 10 2007! 
 
 This edition, totally re-written from the previous 2004 version, lists the most serious web application vulnerabilities, discusses how to protect against them, and provides links to more information. 
 
